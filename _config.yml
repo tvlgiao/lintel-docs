@@ -25,7 +25,7 @@ demo_stores:
 # How fast support answers, shown on /support/ and /contact/.
 support_response_time: "within 2 business days"
 # Where /contact/ and /support/ send merchants to open a support request (Zendesk help center).
-support_request_url: "https://papathemes.zendesk.com/hc/en-us/requests/new"
+support_request_url: "https://papathemes.zendesk.com/hc/en-us/requests/new?tf_7164489542029=Lintel"
 # ---------------------------------------------------------------------------
 
 markdown: kramdown
