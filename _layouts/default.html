@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {%- if page.title and page.url != '/' %}
+  <title>{{ page.title }} | {{ site.title }}</title>
+  {%- else %}
+  <title>{{ site.title }}</title>
+  {%- endif %}
+  <meta name="description" content="{{ page.description | default: site.description | strip_html | strip_newlines | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand__name">{{ site.theme_name }}</span>
+        <span class="brand__sub">Theme documentation</span>
+      </a>
+      <nav class="header-links" aria-label="Help">
+        <a href="{{ '/support/' | relative_url }}"{% if page.url == '/support/' %} aria-current="page"{% endif %}>Support</a>
+        <a class="button button--small" href="{{ '/contact/' | relative_url }}"{% if page.url == '/contact/' %} aria-current="page"{% endif %}>Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="layout">
+    <details class="sidebar" id="docs-nav" open>
+      <summary class="sidebar__toggle">Documentation menu</summary>
+      <nav aria-label="Documentation">
+        {%- for group in site.data.nav %}
+        <p class="sidebar__heading">{{ group.title }}</p>
+        <ul>
+          {%- for item in group.items %}
+          <li><a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+          {%- endfor %}
+        </ul>
+        {%- endfor %}
+      </nav>
+    </details>
+
+    <main id="main" class="content" tabindex="-1">
+      <article>
+        {%- if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+        {%- if page.lead %}<p class="lead">{{ page.lead }}</p>{% endif %}
+        {{ content }}
+      </article>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <p>{{ site.theme_name }} {{ site.theme_version }} for Shopify, by {{ site.theme_author }}. &copy; {{ site.time | date: '%Y' }} {{ site.theme_author }}.</p>
+    <p><a href="{{ '/support/' | relative_url }}">Support policy</a> · <a href="{{ '/contact/' | relative_url }}">Contact support</a> · <a href="{{ '/release-notes/' | relative_url }}">Release notes</a></p>
+  </footer>
+  <script>
+    // Collapse the menu by default on small screens; it stays a native <details> so it works without this script.
+    (function () {
+      var nav = document.getElementById('docs-nav');
+      if (nav && window.matchMedia('(max-width: 59.99em)').matches) nav.removeAttribute('open');
+    })();
+  </script>
+  {%- if page.scripts %}{% for s in page.scripts %}
+  <script src="{{ s | relative_url }}" defer></script>
+  {%- endfor %}{% endif %}
+</body>
+</html>

@@ -1,0 +1,43 @@
+# Lintel theme documentation — Jekyll site served by GitHub Pages.
+title: Lintel theme documentation
+description: Documentation, tutorials and support for the Lintel Shopify theme by PapaThemes.
+url: "https://lintel.papathemes.com"
+baseurl: "/lintel-docs"  # phase 1: github.io preview; set to "" with the CNAME
+lang: en-US
+
+theme_name: Lintel
+theme_version: 1.0.0
+theme_author: PapaThemes
+presets: [Lintel, Bisque, Neroli, Savile]
+demo_stores:
+  - name: Lintel
+    url: https://lintel-demo.myshopify.com
+  - name: Bisque
+    url: https://bisque-demo.myshopify.com
+  - name: Neroli
+    url: https://neroli-demo.myshopify.com
+  - name: Savile
+    url: https://savile-demo.myshopify.com
+
+# ---------------------------------------------------------------------------
+# SUPPORT SETTINGS — edit these two values; every page reads them from here.
+# ---------------------------------------------------------------------------
+# How fast support answers, shown on /support/ and /contact/.
+support_response_time: "within 2 business days"
+# Where /contact/ and /support/ send merchants to open a support request (Zendesk help center).
+support_request_url: "https://papathemes.zendesk.com/hc/en-us/requests/new"
+# ---------------------------------------------------------------------------
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts/
+  - vendor/

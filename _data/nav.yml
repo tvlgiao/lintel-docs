@@ -1,0 +1,28 @@
+- title: Start here
+  items:
+    - { title: Overview, url: / }
+    - { title: Getting started, url: /getting-started/ }
+    - { title: Theme settings, url: /theme-settings/ }
+- title: Store features
+  items:
+    - { title: Sections, url: /sections/ }
+    - { title: Header and footer, url: /header-and-footer/ }
+    - { title: Product page, url: /product-page/ }
+    - { title: Collections and filtering, url: /collections/ }
+    - { title: Cart, url: /cart/ }
+    - { title: Search, url: /search/ }
+- title: Design
+  items:
+    - { title: Color schemes and dark mode, url: /colors/ }
+    - { title: Typography and layout, url: /typography/ }
+- title: Reference
+  items:
+    - { title: Accessibility, url: /accessibility/ }
+    - { title: Translations, url: /translations/ }
+    - { title: Custom code tutorials, url: /tutorials/ }
+    - { title: Release notes, url: /release-notes/ }
+- title: Help
+  items:
+    - { title: FAQ, url: /faq/ }
+    - { title: Support policy, url: /support/ }
+    - { title: Contact support, url: /contact/ }
