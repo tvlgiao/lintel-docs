@@ -14,7 +14,7 @@ lead: What Lintel theme support includes, how to reach us and how quickly we rep
 
 ## Response time
 
-We reply to support requests **{{ site.support_response_time }}**, Monday to Friday, excluding public holidays. Complex issues can take longer to resolve; we'll keep you updated.
+We reply to support requests **{{ site.support_response_time }}**. Complex issues can take longer to resolve; we'll keep you updated.
 
 ## What support covers
 

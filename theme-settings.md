@@ -92,7 +92,6 @@ See [Cart]({{ '/cart/' | relative_url }}).
 
 | Setting | Description |
 | --- | --- |
-| Pagination mode | **Numbered pagination** or **Load more button**. Collection pages use the **Pagination** setting of the Collection section; see [Collections]({{ '/collections/#pagination' | relative_url }}). |
 | Search overlay color scheme | Color scheme of the search overlay. |
 | Enable predictive search | Shows products, collections, articles and pages as the shopper types. |
 | Popular search 1–4 | Search terms shown as shortcuts in the search overlay and on the search page. |

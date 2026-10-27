@@ -22,7 +22,6 @@ Push to `main` and GitHub Pages rebuilds the site in about a minute.
 | `support_response_time` | The reply time shown on /support/, /contact/, the home page and the FAQ. Currently "within 2 business days". |
 | `support_request_url` | The Zendesk "Submit a request" page that /contact/ and /support/ link to. |
 
-The support page also says "Monday to Friday, excluding public holidays" (`support.md`); change it there if your hours differ.
 
 ## Support requests (Zendesk)
 

@@ -59,7 +59,7 @@ Theme settings are organized into these groups. Each one is described on the [Th
 | Buttons | Button radius, padding, font size, uppercase text and letter spacing |
 | Motion | Reveal-on-scroll animation and subtle transitions |
 | Cart | Cart type (drawer or page), notes, recommendations, bundle suggestion, gift wrapping, free shipping threshold |
-| Collection and search | Pagination mode, search overlay, predictive search and popular searches |
+| Collection and search | Search overlay, predictive search and popular searches |
 | Social media | Links to your social media accounts |
 | Product cards | Image ratio, text alignment, row alignment and badges |
 | Announcement bar | Default announcement text and link |
