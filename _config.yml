@@ -2,7 +2,7 @@
 title: Lintel theme documentation
 description: Documentation, tutorials and support for the Lintel Shopify theme by PapaThemes.
 url: "https://lintel.papathemes.com"
-baseurl: "/lintel-docs"  # phase 1: github.io preview; set to "" with the CNAME
+baseurl: ""
 lang: en-US
 
 theme_name: Lintel
