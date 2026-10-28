@@ -148,3 +148,5 @@ blockquote p:last-child { margin-bottom: 0; }
 .shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 1rem; margin: 1.25rem 0 1.75rem; }
 .shots .shot { margin: 0; }
 .shots .shot--mobile { max-width: none; }
+/* Phone screenshots sit side by side, two to a row on a phone */
+.shots:has(.shot--mobile) { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
