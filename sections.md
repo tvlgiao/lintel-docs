@@ -82,6 +82,8 @@ An image beside a heading, text and a button. Settings: Image, Image position (*
 
 A heading, text and a button. Settings: Eyebrow, Heading, Subheading, Content, Button label, Button link, Content width, Text alignment (**Left**, **Center** or **Right**).
 
+{% include figure.html src="sections/rich-text" alt="A rich text section with an eyebrow, a heading and a paragraph" %}
+
 ## Featured collection
 
 Shows products from one collection. Settings: Collection, Eyebrow, Heading, Subheading, Products to show, Desktop columns, Image ratio, Show vendor, Show secondary image on hover, Show quick add button, Show quick view button, Show star rating, Show color swatches, Show price, Show view all button, View all text, View all link URL.
@@ -99,6 +101,8 @@ Settings: Layout (**Carousel** or **Grid**), Collection, Products to show, Eyebr
 ## Featured product
 
 One product with its gallery, price and buy buttons, for use on any page.
+
+{% include figure.html src="sections/featured-product" alt="A featured product section: a large product photo with thumbnails, and the title, price, color and size options, quantity, add to cart and description" %}
 
 Settings: Product, Media position, Gallery style (**Stacked**, **Thumbnails below** or **Carousel**), Image aspect ratio, Image zoom (**None** or **Open in lightbox**), Show vendor, Show price, Show description, Show quantity selector, Show dynamic checkout buttons. Blocks: **Custom Liquid**.
 
@@ -188,6 +192,8 @@ Blocks:
 
 A poster image that opens a video in a dialog. Settings: Shopify-hosted video, Video URL (YouTube or Vimeo), Poster image, Poster aspect ratio, Autoplay when opened, Start muted, Eyebrow, Heading, Subheading, Text alignment, Video alignment.
 
+{% include figure.html src="sections/video-with-modal" alt="A video section: eyebrow, heading and text above a kitchen poster image with a play button" %}
+
 ## Testimonials
 
 Customer quotes. Settings: Eyebrow, Heading, Subheading, Show star rating, Show verified badge.
@@ -199,6 +205,8 @@ Customer quotes. Settings: Eyebrow, Heading, Subheading, Show star rating, Show 
 ## Quote
 
 A short brand statement between dividers. Settings: Text, Attribution, Show top divider, Show bottom divider.
+
+{% include figure.html src="sections/quote" alt="A quote section: an italic brand statement between two thin dividers, with the attribution The studio" %}
 
 ## Logo list
 
