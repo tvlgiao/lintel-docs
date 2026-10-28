@@ -9,6 +9,8 @@ lead: Fonts, heading sizes, page width and button style.
 
 In **Theme settings > Typography**:
 
+{% include figure.html src="theme-settings/panel-typography" alt="The Typography group in theme settings: heading font, heading letter spacing and size scale, body font and line height" caption="Theme settings > Typography." mobile=true %}
+
 | Setting | Description |
 | --- | --- |
 | Heading font | Used for headings. Choose any font from the Shopify font library. |

@@ -34,6 +34,8 @@ These are in **Theme settings > Cart**:
 
 Set **Free shipping threshold** to the minimum order amount for free shipping, in your store's currency. For example, 50 in a USD store means $50.00. Shoppers paying in another currency see the amount converted at the current exchange rate, rounded up. Set it to 0 to hide the bar.
 
+{% include figure.html src="cart/free-shipping" alt="The cart drawer with a progress bar at the top reading Add $1,380.00 more for complimentary shipping" caption="The free shipping progress bar in the cart drawer." mobile=true %}
+
 <div class="callout callout--warn"><p>The bar only shows progress. Free shipping itself must be set up in <strong>Settings &gt; Shipping and delivery</strong> or as a free shipping discount, with the same amount.</p></div>
 
 ## Cart page
