@@ -33,8 +33,10 @@
 "sections/about-team": { w: 1600, h: 533 }
 "sections/about-values": { w: 1600, h: 559 }
 "sections/collection-list": { w: 1600, h: 1031 }
+"sections/contact-form": { w: 1600, h: 1023 }
 "sections/editor-section-settings": { w: 1301, h: 924 }
 "sections/editorial-collage": { w: 1600, h: 1450 }
+"sections/faq": { w: 1600, h: 632 }
 "sections/featured-collection": { w: 1600, h: 1080 }
 "sections/image-gallery": { w: 1600, h: 872 }
 "sections/image-with-text": { w: 1600, h: 834 }
@@ -45,6 +47,7 @@
 "sections/related-articles": { w: 1600, h: 886 }
 "sections/shop-the-look": { w: 1600, h: 1460 }
 "sections/slideshow": { w: 1600, h: 707 }
+"sections/testimonials": { w: 1600, h: 700 }
 "sections/trust-strip": { w: 1600, h: 282 }
 "theme-settings/announcement-bar": { w: 1600, h: 122 }
 "theme-settings/cookie-consent": { w: 1600, h: 1000 }
