@@ -262,6 +262,8 @@ Blocks:
 
 A searchable list of your stores with opening hours and a map.
 
+{% include figure.html src="sections/store-locator" alt="A store locator: a search field, store type filters, a map, and store cards with address, opening hours, phone and Get directions" %}
+
 Settings: Eyebrow text, Heading, Description, Search input placeholder, Search button label, Show type filters, Show map column, Map address, Map zoom level, Map height (desktop), Map height (mobile), Static map image, Custom Google Maps embed URL.
 
 **Store block:** Storefront image, Store name, Store type (**Flagship**, **Outlet** or **Studio**), Street address, City, state / postal code, Phone number, Distance, opening hours for each day, Services, Latitude, Longitude.

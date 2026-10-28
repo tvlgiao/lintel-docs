@@ -55,6 +55,7 @@
 "sections/rich-text": { w: 1600, h: 316 }
 "sections/shop-the-look": { w: 1600, h: 1460 }
 "sections/slideshow": { w: 1600, h: 707 }
+"sections/store-locator": { w: 1600, h: 1347 }
 "sections/testimonials": { w: 1600, h: 700 }
 "sections/trust-strip": { w: 1600, h: 282 }
 "sections/video-with-modal": { w: 1600, h: 1062 }
