@@ -7,6 +7,8 @@ lead: Sections are the building blocks of your pages. Add them in the theme edit
 
 ## Settings most sections share
 
+{% include figure.html src="sections/editor-section-settings" alt="The Slideshow section selected in the theme editor with its carousel and layout settings" caption="Select a section to see its settings." %}
+
 | Setting | Description |
 | --- | --- |
 | Inherit global color scheme | On by default. The section uses the **Default color scheme** from theme settings. Turn it off to choose a scheme for this section. |

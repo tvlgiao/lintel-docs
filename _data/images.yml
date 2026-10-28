@@ -4,8 +4,11 @@
 "collections/collection": { w: 1600, h: 1000 }
 "collections/collection-mobile-filters": { w: 780, h: 1688 }
 "collections/collections-list": { w: 1600, h: 1000 }
+"colors/editor-colors": { w: 1301, h: 924 }
 "colors/home-dark": { w: 1600, h: 1000 }
 "colors/home-light": { w: 1600, h: 1000 }
+"getting-started/editor-overview": { w: 1301, h: 924 }
+"getting-started/editor-theme-settings": { w: 1301, h: 924 }
 "header-and-footer/footer": { w: 1600, h: 623 }
 "header-and-footer/header": { w: 1600, h: 133 }
 "header-and-footer/mega-menu": { w: 1600, h: 1000 }
@@ -30,6 +33,7 @@
 "sections/about-team": { w: 1600, h: 533 }
 "sections/about-values": { w: 1600, h: 559 }
 "sections/collection-list": { w: 1600, h: 1031 }
+"sections/editor-section-settings": { w: 1301, h: 924 }
 "sections/editorial-collage": { w: 1600, h: 1450 }
 "sections/featured-collection": { w: 1600, h: 1080 }
 "sections/image-gallery": { w: 1600, h: 872 }

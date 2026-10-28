@@ -40,6 +40,8 @@ To switch presets later, add the theme again from the Theme Store and choose ano
 
 The theme editor (**Online Store > Themes > Customize**) has three areas:
 
+{% include figure.html src="getting-started/editor-overview" alt="The Shopify theme editor with the Lintel home page: the section list on the left and the live preview on the right" caption="The theme editor: sections on the left, a live preview on the right." %}
+
 - **Sections** (left sidebar): the sections and blocks on the page you're viewing. Use the page selector at the top to edit other templates, such as a product page or a collection page.
 - **Settings** (right sidebar): the settings of the section or block you selected.
 - **Theme settings** (the paint brush icon): global settings that apply to the whole store.
@@ -55,6 +57,8 @@ Select **Add section** to insert any of Lintel's sections. See [Sections]({{ '/s
 ## Theme settings groups
 
 Theme settings are organized into these groups. Each one is described on the [Theme settings]({{ '/theme-settings/' | relative_url }}) page.
+
+{% include figure.html src="getting-started/editor-theme-settings" alt="The Theme settings panel listing Logo, SEO, Colors, Typography, Layout, Buttons, Motion, Cart, Collection and search, Social media, Product cards, Announcement bar, Header, Navigation and Newsletter popup" caption="Theme settings, opened from the gear icon." %}
 
 | Group | What it controls |
 | --- | --- |

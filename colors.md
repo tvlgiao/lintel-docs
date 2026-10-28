@@ -9,6 +9,8 @@ lead: Every color in Lintel comes from a color scheme. Each scheme has a light p
 
 Open **Theme settings > Colors**. Each preset includes six color schemes, and you can add, edit or remove schemes there. A scheme is a set of colors for text, backgrounds, buttons and accents. Sections and some features (the search overlay, the cart drawer) each use one scheme.
 
+{% include figure.html src="colors/editor-colors" alt="The Colors panel in theme settings with the default mode, the light and dark switcher and six color scheme swatches" caption="Theme settings > Colors." %}
+
 - **Default color scheme** is used by the page background, the cart drawer, search, and every section that has **Inherit global color scheme** turned on.
 - To give a section its own colors, select the section, turn off **Inherit global color scheme**, then choose a **Color scheme**.
 
