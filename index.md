@@ -21,6 +21,15 @@ Lintel is an editorial Shopify theme built on Online Store 2.0. It ships with fo
 
 Lintel includes four presets. Each preset is the same theme with its own colors, fonts and home page content.
 
+<div class="shots">
+{% include figure.html src="index/home-lintel" alt="Lintel preset home page: a living room hero with the headline Designed for living" caption="Lintel" %}
+{% include figure.html src="index/home-bisque" alt="Bisque preset home page: a ceramics hero with the headline Each piece, made by hand" caption="Bisque" %}
+</div>
+<div class="shots">
+{% include figure.html src="index/home-neroli" alt="Neroli preset home page: a skincare hero with the headline Skin in season" caption="Neroli" %}
+{% include figure.html src="index/home-savile" alt="Savile preset home page: a fashion hero with the headline Eight pieces. Finite quantity." caption="Savile" %}
+</div>
+
 | Preset | Demo store |
 | --- | --- |
 {%- for store in site.demo_stores %}

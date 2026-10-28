@@ -9,6 +9,8 @@ Open a collection template in the theme editor (page selector **Collections > De
 
 ## Display
 
+{% include figure.html src="collections/collection" alt="The Lintel Products collection page with breadcrumbs, a filter button, sort, layout buttons and a four-column product grid" caption="A collection page with the filter toolbar and grid." %}
+
 | Setting | Description |
 | --- | --- |
 | Show breadcrumb | Shows the breadcrumb trail above the title. |
@@ -58,6 +60,8 @@ Open a collection template in the theme editor (page selector **Collections > De
 
 Filters come from Shopify. Install the free **Shopify Search & Discovery** app and choose your filters there, for example availability, price, product type, vendor, tags and product options such as size and color. Lintel shows each filter in a matching style: checkboxes, a price range or a yes/no toggle.
 
+{% include figure.html src="collections/collection-mobile-filters" alt="The filter drawer on a phone with availability and price filters and Clear all and Apply buttons" caption="On a phone, filters open in a drawer." mobile=true %}
+
 | Setting | Description |
 | --- | --- |
 | Enable filtering | Shows filters. |
@@ -92,3 +96,6 @@ Add **Promotion tile** blocks to insert editorial cards into the product grid.
 ## Collections list page
 
 The page at `/collections` uses the **List collections** section. See [Template sections]({{ '/sections/#template-sections' | relative_url }}).
+
+{% include figure.html src="collections/collections-list" alt="The Bisque All collections page with a grid of collection tiles showing product counts" caption="The collections list page." %}
+

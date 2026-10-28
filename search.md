@@ -9,6 +9,8 @@ lead: Predictive search in the header, popular searches and the search results p
 
 With **Enable predictive search** on (**Theme settings > Collection and search**), results appear as the shopper types: products, collections, pages and blog articles. Shoppers can move through results with the arrow keys and press Enter to open one, or press Enter in the field to see all results.
 
+{% include figure.html src="search/predictive" alt="The search overlay with the query chair and five matching products with images and prices" caption="Predictive search shows results as the shopper types." %}
+
 | Setting | Where | Description |
 | --- | --- | --- |
 | Show search icon | Theme settings > Header | Shows the search icon in the header. |
@@ -21,6 +23,8 @@ Predictive search uses Shopify's search. To tune results, for example with synon
 ## Search results page
 
 Open the search template in the theme editor (page selector **Search**). The **Search results** section has these settings:
+
+{% include figure.html src="search/results" alt="The search results page: 30 results for chair, with tabs for products, pages and articles" caption="The search results page." %}
 
 | Setting | Description |
 | --- | --- |

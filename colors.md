@@ -34,6 +34,11 @@ Each scheme has a **Light mode** and a **Dark mode** group with the same colors:
 
 ## Light and dark mode
 
+<div class="shots">
+{% include figure.html src="colors/home-light" alt="The Bisque home page in light mode" caption="Light mode." %}
+{% include figure.html src="colors/home-dark" alt="The same Bisque home page in dark mode, with dark section backgrounds" caption="Dark mode." %}
+</div>
+
 | Setting | Description |
 | --- | --- |
 | Default mode | **Auto (system)** follows the shopper's device setting. **Light** or **Dark** shows that mode first. |

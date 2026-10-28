@@ -21,6 +21,13 @@ lead: Install Lintel, pick a preset and find your way around the theme editor.
 
 Every preset contains all of Lintel's features and the same page templates. Presets differ in theme settings: color schemes, heading and body fonts, button style, page margins, product image ratios and a few defaults such as the sale badge style. You can change any of these after installing, so pick the preset whose look is closest to your brand. The demo stores show each preset with its own sample content.
 
+<div class="shots">
+{% include figure.html src="index/home-lintel-mobile" alt="Lintel preset home page on a phone" caption="Lintel" mobile=true %}
+{% include figure.html src="index/home-bisque-mobile" alt="Bisque preset home page on a phone" caption="Bisque" mobile=true %}
+{% include figure.html src="index/home-neroli-mobile" alt="Neroli preset home page on a phone" caption="Neroli" mobile=true %}
+{% include figure.html src="index/home-savile-mobile" alt="Savile preset home page on a phone" caption="Savile" mobile=true %}
+</div>
+
 | Preset | Demo store |
 | --- | --- |
 {%- for store in site.demo_stores %}

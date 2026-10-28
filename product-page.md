@@ -9,6 +9,8 @@ Open a product template in the theme editor (page selector **Products > Default 
 
 ## Gallery
 
+{% include figure.html src="product-page/product-top" alt="Lintel product page for the Rattan Pendant: a large photo on the left, title, price, size buttons and add to cart on the right" caption="The product page on a desktop screen." %}
+
 | Setting | Options and description |
 | --- | --- |
 | Gallery style | **Stacked**, **Thumbnails below**, **Thumbnails left**, **Thumbnails right**, **Carousel**, **Grid**, **Mosaic** or **Spotlight**. |
@@ -41,6 +43,11 @@ When a shopper picks a variant that has its own image, the gallery shows that im
 ## Blocks
 
 Reorder blocks by dragging them in the sidebar.
+
+<div class="shots">
+{% include figure.html src="product-page/product-info" alt="Savile product information: vendor, title, price, size buttons, quantity, add to cart, buy it now and tabs for materials, dimensions and care" caption="Product information blocks in their default order." %}
+{% include figure.html src="product-page/product-mobile" alt="The Rattan Pendant product page on a phone with a sticky add to cart bar" caption="On a phone, the add to cart bar sticks to the bottom." mobile=true %}
+</div>
 
 | Block | What it shows |
 | --- | --- |
@@ -90,12 +97,16 @@ Other settings: Heading, Maximum products, Show bundle discount, Discount percen
 
 ## Complementary and related products
 
+{% include figure.html src="product-page/recommendations" alt="The You may also like row with four product cards" caption="Related products appear in the Product recommendations section." %}
+
 - **Complementary products** come from the Shopify Search & Discovery app.
 - **Related products** come from Shopify's automatic product recommendations.
 
 ## Size guide
 
 The size guide opens in a dialog from the **Size guide** block. Lintel looks for content in this order and uses the first one it finds:
+
+{% include figure.html src="product-page/size-guide" alt="The Savile size guide open in a dialog over the product page, with a size table and care note" caption="The size guide opens in a dialog." %}
 
 1. The product's `custom.size_guide_page` metafield (a page reference). Best for tables: edit the page with Shopify's visual editor.
 2. The product's `custom.size_guide` metafield (HTML for tables, or rich text for prose).
@@ -129,6 +140,11 @@ When you offer local pickup (**Settings > Shipping and delivery > Local pickup**
 
 Gift card products use the **Gift card** section on the `product.gift-card` template. It includes the recipient form, so shoppers can send the gift card to someone else by email on a chosen date. Assign the **gift-card** template to your gift card products in the product's **Theme template** setting.
 
+{% include figure.html src="product-page/gift-card" alt="Neroli gift card product page with a card preview, amount buttons and recipient fields" caption="A gift card product with the recipient form." %}
+
 ## Quick view and quick add
 
 Product cards can show **Quick add** and **Quick view** buttons, set per section. Quick view opens the product in a dialog with its gallery, variant picker and add to cart button.
+
+{% include figure.html src="product-page/quick-view" alt="The quick view dialog for a vase, with photos, price, colour buttons and add to cart" caption="Quick view opens the product in a dialog from a product card." %}
+

@@ -9,6 +9,8 @@ lead: Choose between a cart drawer and a cart page, and set up notes, gift wrapp
 
 In **Theme settings > Cart**, set **Cart type**:
 
+{% include figure.html src="cart/cart-drawer" alt="The cart drawer open on the right with a product line, recommendations, discount code and note fields and a checkout button" caption="The cart drawer." %}
+
 - **Drawer**: adding a product opens a side panel with the cart. Shoppers can change quantities, remove items and go to checkout without leaving the page.
 - **Page**: adding a product takes the shopper to the cart page.
 
@@ -37,6 +39,8 @@ Set **Free shipping threshold** to the minimum order amount for free shipping, i
 ## Cart page
 
 Open the cart template in the theme editor (page selector **Cart**). The Cart section has these settings:
+
+{% include figure.html src="cart/cart-page" alt="The Lintel cart page with a product line and an order summary with discount code, order note and checkout" caption="The cart page." %}
 
 | Setting | Description |
 | --- | --- |

@@ -1,0 +1,14 @@
+{%- comment -%}
+  A screenshot with a caption.
+  {% include figure.html src="product-page/product-top" alt="..." caption="..." %}
+  src: image path under /assets/img/, without extension. width/height come from _data/images.yml
+  so the browser reserves the space before the image loads. mobile: true narrows the frame.
+{%- endcomment -%}
+{%- assign img = site.data.images[include.src] -%}
+<figure class="shot{% if include.mobile %} shot--mobile{% endif %}">
+  <a href="{{ '/assets/img/' | append: include.src | append: '.webp' | relative_url }}">
+    <img src="{{ '/assets/img/' | append: include.src | append: '.webp' | relative_url }}"
+      alt="{{ include.alt | escape }}" width="{{ img.w }}" height="{{ img.h }}" loading="lazy" decoding="async">
+  </a>
+  {%- if include.caption %}<figcaption>{{ include.caption | markdownify | remove: '<p>' | remove: '</p>' | strip }}</figcaption>{% endif %}
+</figure>

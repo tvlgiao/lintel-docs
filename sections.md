@@ -55,6 +55,8 @@ Sections that belong to a page type are described on their own pages: [Product](
 
 A full-width hero of one or more slides. Each slide can show an image, an uploaded video, a YouTube or Vimeo video, or just color and text.
 
+{% include figure.html src="sections/slideshow" alt="A slideshow slide with a photo, the headline How we formulate, a button, arrows and slide dots" %}
+
 **Carousel settings:** Autoplay, Autoplay interval, Transition (**Slide**, **Fade** or **Ken Burns (zoom)**), Transition speed, Loop slides, Show arrows, Show pagination, Pagination style (**Dots**, **Counter (01 / 05)** or **Progress bar**), Pause on hover.
 
 **Layout settings:** Section height (**Aspect ratio**, **Small**, **Medium**, **Large**, **Full screen** or **Custom**), Aspect ratio, Custom height, Mobile height.
@@ -72,6 +74,8 @@ A full-width hero of one or more slides. Each slide can show an image, an upload
 
 An image beside a heading, text and a button. Settings: Image, Image position (**Left** or **Right**), Image width (**Equal**, **Wide** or **Wide content**), Eyebrow, Heading, Text, Button label, Button link.
 
+{% include figure.html src="sections/image-with-text" alt="An image with text section: a photo on the left and a heading, paragraph and link on the right" %}
+
 ## Rich text
 
 A heading, text and a button. Settings: Eyebrow, Heading, Subheading, Content, Button label, Button link, Content width, Text alignment (**Left**, **Center** or **Right**).
@@ -79,6 +83,8 @@ A heading, text and a button. Settings: Eyebrow, Heading, Subheading, Content, B
 ## Featured collection
 
 Shows products from one collection. Settings: Collection, Eyebrow, Heading, Subheading, Products to show, Desktop columns, Image ratio, Show vendor, Show secondary image on hover, Show quick add button, Show quick view button, Show star rating, Show color swatches, Show price, Show view all button, View all text, View all link URL.
+
+{% include figure.html src="sections/featured-collection" alt="A featured collection titled Best sellers with four product cards and a View all link" %}
 
 ## Product list
 
@@ -96,6 +102,8 @@ Settings: Product, Media position, Gallery style (**Stacked**, **Thumbnails belo
 
 Shows collections as cards. Settings: Eyebrow, Heading, Subheading, Layout (**Bento** or **Grid**), Image ratio.
 
+{% include figure.html src="sections/collection-list" alt="A collection list titled Shop by room with one large and two small collection tiles" %}
+
 Blocks:
 
 - **Collection:** Collection, Custom heading, Custom image.
@@ -104,6 +112,8 @@ Blocks:
 ## Editorial collage
 
 A magazine-style collage. Settings: Eyebrow, Heading, Subheading, Layout (**Asymmetric** or **Symmetric**), Image ratio.
+
+{% include figure.html src="sections/editorial-collage" alt="An editorial collage of a tall photo, a square photo and a quote tile" %}
 
 Blocks:
 
@@ -116,11 +126,15 @@ Blocks:
 
 An image with clickable product dots. Settings: Eyebrow, Heading, Subheading, Image, Auto-adjust card position to avoid edges.
 
+{% include figure.html src="sections/shop-the-look" alt="A shop the look photo with hotspot markers and an open product card" %}
+
 **Hotspot block:** Linked product, Product title (fallback), Product price (fallback), Horizontal position, Vertical position, Card position (**Auto (smart placement)**, **Bottom**, **Top**, **Left** or **Right**), Show add to cart button.
 
 ## Lookbook
 
 A slideshow of looks, each with its own product hotspots. Available on the home page and on pages.
+
+{% include figure.html src="sections/lookbook" alt="A lookbook slide: a full-width fashion photo with product hotspots and a shop this look link" %}
 
 Settings: Auto-advance slides, Slide interval, Transition duration, Aspect ratio (**21:9 (cinematic)**, **16:9 (widescreen)**, **4:3 (classic)** or **1:1 (square)**).
 
@@ -130,6 +144,8 @@ Settings: Auto-advance slides, Slide interval, Transition duration, Aspect ratio
 ## Image gallery
 
 A masonry or grid gallery of linked images. Settings: Eyebrow, Heading, Subheading, Layout (**Masonry** or **Grid**), Show footer link, Footer link text, Footer link URL.
+
+{% include figure.html src="sections/image-gallery" alt="An image gallery of four fashion photos in a grid with a Shop the capsule link" %}
 
 **Room block:** Image, Heading, Subheading, Link.
 
@@ -182,11 +198,15 @@ Press, partner or brand logos. Settings: Eyebrow text, Heading, Description, Lay
 
 A row of icons with short text, such as free shipping or easy returns. Settings: Show top border, Show bottom border.
 
+{% include figure.html src="sections/trust-strip" alt="A trust strip with three icons: delivery, crafted to last and returns" %}
+
 **Trust item block:** Icon (**None**, **Shipping**, **Star**, **Clock**, **Leaf**, **Shield**, **Heart** or **Custom**), Custom icon image, Label, Description.
 
 ## Newsletter
 
 An email sign-up form. Sign-ups are added to your Shopify customers as email subscribers.
+
+{% include figure.html src="sections/newsletter" alt="A newsletter section with a heading, text, an email field and a Subscribe button" %}
 
 Settings: Eyebrow, Heading, Text, Button label, Social proof text, Disclaimer, Layout (**Split** or **Centered**).
 
@@ -234,9 +254,13 @@ Alternating image-and-text rows. Settings: Image ratio. **Story block:** Image, 
 
 A grid of team members. Settings: Eyebrow text, Heading, Columns on desktop. **Team member block:** Photo, Name, Role, Bio.
 
+{% include figure.html src="sections/about-team" alt="A team section with four round portraits, names and roles" %}
+
 ## About values
 
 A grid of brand values. Settings: Eyebrow text, Heading, Columns on desktop. **Value block:** Icon image, Heading, Text.
+
+{% include figure.html src="sections/about-values" alt="A values section with three icons, titles and short descriptions" %}
 
 ## Material story
 
@@ -247,6 +271,8 @@ Blocks: **Stat** (Icon, Value, Label), **Process step** (Image, Step heading, De
 ## Related articles
 
 Articles related to the one being read. Settings: Heading, Number of articles, Use carousel on mobile, Source blog, Match by (**Same tags**, **Same blog (most recent)** or **Manual selection**), Show previous / next navigation, Image ratio, and options to show the image, tags, date, reading time, author, excerpt and "Read more" link.
+
+{% include figure.html src="sections/related-articles" alt="A section titled Read from the journal with three article cards" %}
 
 **Article block** (for Manual selection): Article.
 

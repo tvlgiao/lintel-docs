@@ -22,6 +22,10 @@ The Announcement bar section sits in the header group. Add one **Announcement** 
 
 Choose the menu in **Menu** (create menus in **Online Store > Navigation**).
 
+{% include figure.html src="header-and-footer/header" alt="Lintel header: logo on the left, menu in the centre, theme mode, search, account and cart icons on the right" caption="The header on a desktop screen." %}
+
+{% include figure.html src="header-and-footer/mega-menu" alt="The Shop menu open as a dropdown below the header on the Products page" caption="A menu item with child links opens a dropdown." %}
+
 | Setting | Description |
 | --- | --- |
 | Layout mode | **Balanced** or **Logo centered**. |
@@ -50,9 +54,16 @@ Add one Mega menu block for each top-level item that should open a panel. Other 
 
 On phones, Lintel can show a fixed bar at the bottom of the screen with up to five tabs. Set it up in **Theme settings > Navigation**. See [Theme settings]({{ '/theme-settings/#navigation' | relative_url }}).
 
+<div class="shots">
+{% include figure.html src="header-and-footer/mobile-menu" alt="The mobile menu drawer with collections, pages, a theme switch, account and cart" caption="The mobile menu drawer." mobile=true %}
+{% include figure.html src="index/home-lintel-mobile" alt="A phone screen with the bottom navigation bar: Home, Search, Cart and Account" caption="The mobile navigation bar along the bottom." mobile=true %}
+</div>
+
 ## Footer
 
 The footer is built from blocks, each one a column.
+
+{% include figure.html src="header-and-footer/footer" alt="Lintel footer with brand text, social icons, link columns, a contact column, payment icons and Powered by Shopify" caption="The footer with its brand text, menus and payment icons." %}
 
 | Block | Settings |
 | --- | --- |
