@@ -39,6 +39,8 @@ See [Color schemes and dark mode]({{ '/colors/' | relative_url }}) for a full gu
 
 See [Typography and layout]({{ '/typography/' | relative_url }}).
 
+{% include figure.html src="theme-settings/panel-typography" alt="The Typography group in theme settings: heading font, heading letter spacing and size scale, body font and line height" caption="Theme settings > Typography." mobile=true %}
+
 | Setting | Description |
 | --- | --- |
 | Heading font | Font for headings, chosen from the Shopify font library. |
@@ -49,12 +51,16 @@ See [Typography and layout]({{ '/typography/' | relative_url }}).
 
 ## Layout
 
+{% include figure.html src="theme-settings/panel-layout" alt="The Layout group in theme settings: maximum page width and minimum page margin" caption="Theme settings > Layout." mobile=true %}
+
 | Setting | Description |
 | --- | --- |
 | Maximum page width | **Narrow (90rem)** or **Wide (110rem)**. |
 | Minimum page margin | The space between content and the edge of the screen. |
 
 ## Buttons
+
+{% include figure.html src="theme-settings/panel-buttons" alt="The Buttons group in theme settings: border radius, vertical and horizontal padding, font size, uppercase text and letter spacing" caption="Theme settings > Buttons." mobile=true %}
 
 | Setting | Description |
 | --- | --- |
@@ -76,6 +82,8 @@ Lintel turns animations off for shoppers whose device asks for reduced motion, w
 ## Cart
 
 See [Cart]({{ '/cart/' | relative_url }}).
+
+{% include figure.html src="theme-settings/panel-cart" alt="The Cart group in theme settings: cart type drawer or page, show vendor, cart note, recommendations, delivery estimate and bundle suggestion" caption="Theme settings > Cart." mobile=true %}
 
 | Setting | Description |
 | --- | --- |
@@ -102,6 +110,8 @@ Add the URLs of your accounts: **X (Twitter)**, **Facebook**, **Instagram**, **P
 
 ## Product cards
 
+{% include figure.html src="theme-settings/panel-product-cards" alt="The Product cards group in theme settings: image ratio, text alignment, align rows across cards, and sale and new badges" caption="Theme settings > Product cards." mobile=true %}
+
 | Setting | Description |
 | --- | --- |
 | Image ratio | Image shape on every product card: Adapt to image, Portrait (3:4), Square (1:1), Landscape (4:3), Landscape wide (3:2) or Widescreen (16:9). Sections can override it. |
@@ -112,6 +122,8 @@ Add the URLs of your accounts: **X (Twitter)**, **Facebook**, **Instagram**, **P
 
 ## Announcement bar
 
+{% include figure.html src="theme-settings/announcement-bar" alt="The announcement bar above the Savile header with the text Made in a small circle of mills and a close button" caption="The announcement bar above the header." %}
+
 | Setting | Description |
 | --- | --- |
 | Text | Default announcement text. |
@@ -121,6 +133,8 @@ Add the URLs of your accounts: **X (Twitter)**, **Facebook**, **Instagram**, **P
 The Announcement bar section in the header group lets you add several rotating announcements. See [Header and footer]({{ '/header-and-footer/' | relative_url }}).
 
 ## Header
+
+{% include figure.html src="theme-settings/panel-header" alt="The Header group in theme settings: transparent on home page, sticky header, search icon, search opens as, account row and cart item count" caption="Theme settings > Header." mobile=true %}
 
 | Setting | Description |
 | --- | --- |
@@ -135,6 +149,8 @@ The Announcement bar section in the header group lets you add several rotating a
 
 The mobile navigation bar is a fixed bar at the bottom of the screen on phones (768px wide or less).
 
+{% include figure.html src="theme-settings/panel-navigation" alt="The Navigation group in theme settings: show mobile navigation bar, hide on scroll down, and the settings of each tab" caption="Theme settings > Navigation." mobile=true %}
+
 | Setting | Description |
 | --- | --- |
 | Show mobile navigation bar | Turns the bar on or off. |
@@ -145,6 +161,8 @@ The mobile navigation bar is a fixed bar at the bottom of the screen on phones (
 | Tab 1–5: Link | Leave blank to use the default action: the Search tab opens search, the Cart tab opens the cart and the Account tab opens the customer account. |
 
 ## Newsletter popup
+
+{% include figure.html src="theme-settings/newsletter-popup" alt="The newsletter popup over the Lintel home page with a heading, short text, an email field, a Subscribe button and No thanks" caption="The newsletter popup." %}
 
 | Setting | Description |
 | --- | --- |
@@ -159,6 +177,8 @@ The mobile navigation bar is a fixed bar at the bottom of the screen on phones (
 Sign-ups are added to your Shopify customers as email subscribers, like the Newsletter section.
 
 ## Cookie consent
+
+{% include figure.html src="theme-settings/cookie-consent" alt="The cookie banner along the bottom of the Bisque home page with Reject all, Manage preferences and Accept all buttons" caption="The cookie banner, shown to visitors in regions where Shopify asks for consent." %}
 
 | Setting | Description |
 | --- | --- |

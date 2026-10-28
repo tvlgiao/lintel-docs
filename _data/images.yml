@@ -46,3 +46,13 @@
 "sections/shop-the-look": { w: 1600, h: 1460 }
 "sections/slideshow": { w: 1600, h: 707 }
 "sections/trust-strip": { w: 1600, h: 282 }
+"theme-settings/announcement-bar": { w: 1600, h: 122 }
+"theme-settings/cookie-consent": { w: 1600, h: 1000 }
+"theme-settings/newsletter-popup": { w: 1600, h: 1000 }
+"theme-settings/panel-buttons": { w: 375, h: 979 }
+"theme-settings/panel-cart": { w: 375, h: 979 }
+"theme-settings/panel-header": { w: 375, h: 979 }
+"theme-settings/panel-layout": { w: 375, h: 979 }
+"theme-settings/panel-navigation": { w: 375, h: 979 }
+"theme-settings/panel-product-cards": { w: 375, h: 979 }
+"theme-settings/panel-typography": { w: 375, h: 979 }
