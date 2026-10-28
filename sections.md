@@ -262,9 +262,13 @@ Settings: Eyebrow text, Heading, Description, Search input placeholder, Search b
 
 The top of an about page. Settings: Show breadcrumb, Breadcrumb color scheme, Eyebrow text, Heading, Subheading, Background image, Overlay opacity, Minimum height.
 
+{% include figure.html src="sections/about-hero" alt="An about hero: a full-width studio photo with the eyebrow Our story and the headline Form follows feeling" %}
+
 ## About story
 
 Alternating image-and-text rows. Settings: Image ratio. **Story block:** Image, Heading, Text, Image position.
+
+{% include figure.html src="sections/about-story" alt="An about story row: a photo of sketches on a workbench beside the heading Founded in a print works, 2020 and a paragraph" %}
 
 ## About team
 

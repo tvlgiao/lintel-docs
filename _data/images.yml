@@ -30,6 +30,8 @@
 "product-page/size-guide": { w: 1600, h: 1000 }
 "search/predictive": { w: 1600, h: 1000 }
 "search/results": { w: 1600, h: 1000 }
+"sections/about-hero": { w: 1600, h: 793 }
+"sections/about-story": { w: 1600, h: 1347 }
 "sections/about-team": { w: 1600, h: 533 }
 "sections/about-values": { w: 1600, h: 559 }
 "sections/before-after": { w: 1600, h: 1235 }
