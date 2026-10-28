@@ -92,6 +92,8 @@ Shows products from one collection. Settings: Collection, Eyebrow, Heading, Subh
 
 A carousel or grid of products. Pick a **Collection**, or add **Product** blocks to choose products by hand.
 
+{% include figure.html src="sections/product-list" alt="A product carousel titled Popular This Week with product cards showing photos, names, prices, ratings and swatches" %}
+
 Settings: Layout (**Carousel** or **Grid**), Collection, Products to show, Eyebrow, Heading, Subheading, Columns on mobile, Columns on tablet, Columns on desktop, Card minimum width, Auto-fit columns on large screens, Image ratio, Show vendor, Show secondary image on hover, Show quick add button, Show quick view button, Show star rating.
 
 ## Featured product
@@ -155,6 +157,8 @@ A masonry or grid gallery of linked images. Settings: Eyebrow, Heading, Subheadi
 
 A gallery of customer or social media photos with a follow button. Settings: Eyebrow, Heading, Subheading, Instagram URL, Instagram handle, Button text.
 
+{% include figure.html src="sections/customer-photo-gallery" alt="A customer photo gallery titled As Seen in Your Home with a row of six photos and a Follow us on Instagram link" %}
+
 **Image block:** Image, Link, Alt text.
 
 The images are ones you upload. The section doesn't connect to an Instagram account.
@@ -163,11 +167,15 @@ The images are ones you upload. The section doesn't connect to an Instagram acco
 
 A draggable slider that compares two images. The slider works with a mouse, touch and the arrow keys.
 
+{% include figure.html src="sections/before-after" alt="A before and after slider comparing two living room photos, with a draggable handle in the middle" %}
+
 Settings: Eyebrow, Heading, Subheading, Before image, Before image alt text, After image, After image alt text, Show overlay labels, Before label, After label, Initial divider position, Enable intro sweep animation, Aspect ratio, Divider color, Width, Corner radius.
 
 ## Comparison table
 
 Compare products side by side.
+
+{% include figure.html src="sections/comparison-table" alt="A comparison table of four products with photos, badges, rows for dimensions, material, colors, weight and rating, and add to cart buttons" %}
 
 Settings: Eyebrow, Heading, Subheading, Show product images, Show add to cart actions, Width (**Standard** or **Wide**).
 
