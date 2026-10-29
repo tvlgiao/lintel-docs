@@ -13,7 +13,7 @@ The Announcement bar section sits in the header group. Add one **Announcement** 
 
 | Setting | Description |
 | --- | --- |
-| Show | Shows or hides the bar. |
+| Show | Shows or hides the bar. The bar appears only when it has at least one Announcement block. |
 | Auto-rotate announcements | Moves to the next announcement automatically. |
 | Rotation speed (seconds) | Time each announcement stays on screen. |
 | Show previous / next arrows | Lets shoppers move between announcements. |
