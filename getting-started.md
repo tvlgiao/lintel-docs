@@ -58,7 +58,7 @@ Select **Add section** to insert any of Lintel's sections. See [Sections]({{ '/s
 
 Theme settings are organized into these groups. Each one is described on the [Theme settings]({{ '/theme-settings/' | relative_url }}) page.
 
-{% include figure.html src="getting-started/editor-theme-settings" alt="The Theme settings panel listing Logo, SEO, Colors, Typography, Layout, Buttons, Motion, Cart, Collection and search, Social media, Product cards, Announcement bar, Header, Navigation and Newsletter popup" caption="Theme settings, opened from the gear icon." %}
+{% include figure.html src="getting-started/editor-theme-settings" alt="The Theme settings panel listing Logo, SEO, Colors, Typography, Layout, Buttons, Motion, Cart, Collection and search, Social media, Product cards, Header, Navigation and Newsletter popup" caption="Theme settings, opened from the gear icon." %}
 
 | Group | What it controls |
 | --- | --- |
@@ -73,7 +73,6 @@ Theme settings are organized into these groups. Each one is described on the [Th
 | Collection and search | Search overlay, predictive search and popular searches |
 | Social media | Links to your social media accounts |
 | Product cards | Image ratio, text alignment, row alignment and badges |
-| Announcement bar | Default announcement text and link |
 | Header | Transparent header, sticky header, search and cart icon options |
 | Navigation | Mobile bottom navigation bar and its five tabs |
 | Newsletter popup | Popup content, trigger and frequency |

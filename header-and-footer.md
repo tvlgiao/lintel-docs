@@ -9,6 +9,8 @@ lead: The announcement bar, header, mega menus, mobile navigation and footer.
 
 The Announcement bar section sits in the header group. Add one **Announcement** block per message (Text, Link, Open link in a new tab).
 
+{% include figure.html src="theme-settings/announcement-bar" alt="The announcement bar above the Savile header with the text Made in a small circle of mills and a close button" caption="The announcement bar above the header." %}
+
 | Setting | Description |
 | --- | --- |
 | Show | Shows or hides the bar. |

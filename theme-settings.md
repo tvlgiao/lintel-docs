@@ -120,18 +120,6 @@ Add the URLs of your accounts: **X (Twitter)**, **Facebook**, **Instagram**, **P
 | Show sale and new badges | Shows badges on product cards. The sold out label always shows. |
 | Sale badge style | **Percentage** or **Text**. |
 
-## Announcement bar
-
-{% include figure.html src="theme-settings/announcement-bar" alt="The announcement bar above the Savile header with the text Made in a small circle of mills and a close button" caption="The announcement bar above the header." %}
-
-| Setting | Description |
-| --- | --- |
-| Text | Default announcement text. |
-| Link | Optional link for the announcement. |
-| Open link in a new tab | Opens the link in a new browser tab. |
-
-The Announcement bar section in the header group lets you add several rotating announcements. See [Header and footer]({{ '/header-and-footer/' | relative_url }}).
-
 ## Header
 
 {% include figure.html src="theme-settings/panel-header" alt="The Header group in theme settings: transparent on home page, sticky header, search icon, search opens as, account row and cart item count" caption="Theme settings > Header." mobile=true %}
