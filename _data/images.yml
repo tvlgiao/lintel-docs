@@ -66,7 +66,7 @@
 "theme-settings/panel-buttons": { w: 375, h: 979 }
 "theme-settings/panel-cart": { w: 375, h: 979 }
 "theme-settings/panel-header": { w: 375, h: 979 }
-"theme-settings/panel-layout": { w: 375, h: 979 }
+"theme-settings/panel-layout": { w: 375, h: 1209 }
 "theme-settings/panel-navigation": { w: 375, h: 979 }
-"theme-settings/panel-product-cards": { w: 375, h: 979 }
+"theme-settings/panel-product-cards": { w: 375, h: 1209 }
 "theme-settings/panel-typography": { w: 375, h: 979 }
