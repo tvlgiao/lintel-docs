@@ -9,7 +9,7 @@
 "colors/home-dark": { w: 1600, h: 1000 }
 "colors/home-light": { w: 1600, h: 1000 }
 "getting-started/editor-overview": { w: 1301, h: 924 }
-"getting-started/editor-theme-settings": { w: 1301, h: 924 }
+"getting-started/editor-theme-settings": { w: 1344, h: 848 }
 "header-and-footer/footer": { w: 1600, h: 623 }
 "header-and-footer/header": { w: 1600, h: 133 }
 "header-and-footer/mega-menu": { w: 1600, h: 1000 }
