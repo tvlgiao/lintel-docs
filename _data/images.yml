@@ -16,8 +16,8 @@
 "header-and-footer/mobile-menu": { w: 780, h: 1688 }
 "index/home-bisque": { w: 1600, h: 1000 }
 "index/home-bisque-mobile": { w: 780, h: 1688 }
-"index/home-lintel": { w: 1600, h: 1000 }
-"index/home-lintel-mobile": { w: 780, h: 1688 }
+"index/home-corbel": { w: 1600, h: 1000 }
+"index/home-corbel-mobile": { w: 780, h: 1688 }
 "index/home-neroli": { w: 1600, h: 1000 }
 "index/home-neroli-mobile": { w: 780, h: 1688 }
 "index/home-savile": { w: 1600, h: 1000 }

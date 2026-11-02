@@ -2,7 +2,7 @@
 layout: default
 title: Color schemes and dark mode
 permalink: /colors/
-lead: Every color in Lintel comes from a color scheme. Each scheme has a light palette and a dark palette, so dark mode works on every section.
+lead: Every color in Corbel comes from a color scheme. Each scheme has a light palette and a dark palette, so dark mode works on every section.
 ---
 
 ## How color schemes work
@@ -28,7 +28,7 @@ Each scheme has a **Light mode** and a **Dark mode** group with the same colors:
 | Accent / Accent hover | Links and highlights, and their hover state. |
 | Button background / Button text | Primary buttons. |
 | Outline button | Border and text of secondary buttons. |
-| Focus ring | The ring around a control reached with the keyboard. If it has less than 3:1 contrast with the background or surface, Lintel uses the text color instead. |
+| Focus ring | The ring around a control reached with the keyboard. If it has less than 3:1 contrast with the background or surface, Corbel uses the text color instead. |
 | Sale badge / Sale badge text | Sale badges on products. |
 | Rating star | Star ratings. |
 

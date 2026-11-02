@@ -77,7 +77,7 @@ See [Typography and layout]({{ '/typography/' | relative_url }}).
 | Reveal sections on scroll | Sections fade in as they scroll into view. |
 | Enable subtle transitions | Short hover and state transitions. |
 
-Lintel turns animations off for shoppers whose device asks for reduced motion, whatever these settings are.
+Corbel turns animations off for shoppers whose device asks for reduced motion, whatever these settings are.
 
 ## Cart
 
@@ -150,7 +150,7 @@ The mobile navigation bar is a fixed bar at the bottom of the screen on phones (
 
 ## Newsletter popup
 
-{% include figure.html src="theme-settings/newsletter-popup" alt="The newsletter popup over the Lintel home page with a heading, short text, an email field, a Subscribe button and No thanks" caption="The newsletter popup." %}
+{% include figure.html src="theme-settings/newsletter-popup" alt="The newsletter popup over the Corbel home page with a heading, short text, an email field, a Subscribe button and No thanks" caption="The newsletter popup." %}
 
 | Setting | Description |
 | --- | --- |

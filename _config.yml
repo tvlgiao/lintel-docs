@@ -1,16 +1,16 @@
-# Lintel theme documentation — Jekyll site served by GitHub Pages.
-title: Lintel theme documentation
-description: Documentation, tutorials and support for the Lintel Shopify theme by PapaThemes.
-url: "https://lintel.papathemes.com"
+# Corbel theme documentation — Jekyll site served by GitHub Pages.
+title: Corbel theme documentation
+description: Documentation, tutorials and support for the Corbel Shopify theme by PapaThemes.
+url: "https://corbel.papathemes.com"
 baseurl: ""
 lang: en-US
 
-theme_name: Lintel
+theme_name: Corbel
 theme_version: 1.0.0
 theme_author: PapaThemes
-presets: [Lintel, Bisque, Neroli, Savile]
+presets: [Corbel, Bisque, Neroli, Savile]
 demo_stores:
-  - name: Lintel
+  - name: Corbel
     url: https://lintel-demo.myshopify.com
   - name: Bisque
     url: https://bisque-demo.myshopify.com
@@ -25,7 +25,7 @@ demo_stores:
 # How fast support answers, shown on /support/ and /contact/.
 support_response_time: "within 2 business days"
 # Where /contact/ and /support/ send merchants to open a support request (Zendesk help center).
-support_request_url: "https://papathemes.zendesk.com/hc/en-us/requests/new?tf_7164489542029=Lintel"
+support_request_url: "https://papathemes.zendesk.com/hc/en-us/requests/new?tf_7164489542029=Corbel"
 # ---------------------------------------------------------------------------
 
 markdown: kramdown

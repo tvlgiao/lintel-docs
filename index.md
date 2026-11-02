@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Lintel theme documentation
-lead: Everything you need to set up, customize and get support for Lintel, a Shopify theme by PapaThemes.
+title: Corbel theme documentation
+lead: Everything you need to set up, customize and get support for Corbel, a Shopify theme by PapaThemes.
 ---
 
-Lintel is an editorial Shopify theme built on Online Store 2.0. It ships with four presets, sections you arrange in the theme editor, a full-featured product page, filtering, a cart drawer, predictive search, color schemes with light and dark palettes, and translations in English, French and Spanish.
+Corbel is an editorial Shopify theme built on Online Store 2.0. It ships with four presets, sections you arrange in the theme editor, a full-featured product page, filtering, a cart drawer, predictive search, color schemes with light and dark palettes, and translations in English, French and Spanish.
 
 <ul class="cards">
   <li><a href="{{ '/getting-started/' | relative_url }}"><strong>Getting started</strong><span>Install the theme, choose a preset and learn the theme editor.</span></a></li>
@@ -19,10 +19,10 @@ Lintel is an editorial Shopify theme built on Online Store 2.0. It ships with fo
 
 ## Presets and demo stores
 
-Lintel includes four presets. Each preset is the same theme with its own colors, fonts and home page content.
+Corbel includes four presets. Each preset is the same theme with its own colors, fonts and home page content.
 
 <div class="shots">
-{% include figure.html src="index/home-lintel" alt="Lintel preset home page: a living room hero with the headline Designed for living" caption="Lintel" %}
+{% include figure.html src="index/home-corbel" alt="Corbel preset home page: a living room hero with the headline Designed for living" caption="Corbel" %}
 {% include figure.html src="index/home-bisque" alt="Bisque preset home page: a ceramics hero with the headline Each piece, made by hand" caption="Bisque" %}
 </div>
 <div class="shots">

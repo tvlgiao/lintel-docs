@@ -2,7 +2,7 @@
 layout: default
 title: Translations
 permalink: /translations/
-lead: Lintel includes storefront text in English, French and Spanish, and supports right-to-left languages.
+lead: Corbel includes storefront text in English, French and Spanish, and supports right-to-left languages.
 ---
 
 ## Included languages
@@ -22,7 +22,7 @@ Storefront text is everything the theme writes for shoppers: button labels, cart
 To reword any built-in text, such as "Add to cart":
 
 1. Go to **Online Store > Themes**.
-2. On Lintel, select **⋯ > Edit default theme content**.
+2. On Corbel, select **⋯ > Edit default theme content**.
 3. Search for the text, change it and select **Save**.
 
 This keeps your change when you update the theme. You don't need to edit code.
@@ -37,7 +37,7 @@ For languages other than English, French and Spanish, the theme's storefront tex
 
 ## Right-to-left languages
 
-When the storefront language is a right-to-left language such as Arabic, Hebrew, Persian or Urdu, Lintel mirrors its layout: navigation, drawers, galleries and text alignment flip direction.
+When the storefront language is a right-to-left language such as Arabic, Hebrew, Persian or Urdu, Corbel mirrors its layout: navigation, drawers, galleries and text alignment flip direction.
 
 ## Currencies and countries
 

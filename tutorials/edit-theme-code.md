@@ -11,7 +11,7 @@ lead: How to make a code change safely, and what it means for support and update
 
 ## Before you start
 
-1. **Duplicate the theme.** In **Online Store > Themes**, select **⋯ > Duplicate** on Lintel. Edit the copy, never your live theme.
+1. **Duplicate the theme.** In **Online Store > Themes**, select **⋯ > Duplicate** on Corbel. Edit the copy, never your live theme.
 2. **Check whether a setting already does it.** See [Theme settings]({{ '/theme-settings/' | relative_url }}), [Custom CSS]({{ '/tutorials/custom-css/' | relative_url }}) and [Custom Liquid]({{ '/tutorials/custom-liquid/' | relative_url }}). These survive theme updates; code edits don't.
 3. **Reword text without code** in **⋯ > Edit default theme content**.
 
@@ -27,8 +27,8 @@ You don't need code for this. Use **Edit default theme content** instead of edit
 
 ## Updating a theme with code changes
 
-When you update Lintel from the theme library, Shopify creates a new copy of the latest version with your theme settings and content. **Code edits are not carried over.** Keep a list of every file you changed, and what you changed, so you or your developer can apply the changes again.
+When you update Corbel from the theme library, Shopify creates a new copy of the latest version with your theme settings and content. **Code edits are not carried over.** Keep a list of every file you changed, and what you changed, so you or your developer can apply the changes again.
 
 ## Getting back to the original
 
-If something breaks, publish your untouched original theme from the theme library, or add a fresh copy of Lintel from the Theme Store.
+If something breaks, publish your untouched original theme from the theme library, or add a fresh copy of Corbel from the Theme Store.

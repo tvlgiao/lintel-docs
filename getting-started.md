@@ -2,14 +2,14 @@
 layout: default
 title: Getting started
 permalink: /getting-started/
-lead: Install Lintel, pick a preset and find your way around the theme editor.
+lead: Install Corbel, pick a preset and find your way around the theme editor.
 ---
 
 ## Install the theme
 
 1. In your Shopify admin, go to **Online Store > Themes**.
-2. Open the Shopify Theme Store page for Lintel and select **Try theme** to preview it in your store, or **Buy theme** to purchase it.
-3. Choose one of the four presets: **Lintel**, **Bisque**, **Neroli** or **Savile**. The theme is added to your theme library as an unpublished theme.
+2. Open the Shopify Theme Store page for Corbel and select **Try theme** to preview it in your store, or **Buy theme** to purchase it.
+3. Choose one of the four presets: **Corbel**, **Bisque**, **Neroli** or **Savile**. The theme is added to your theme library as an unpublished theme.
 4. Select **Customize** to open the theme editor and set up your store.
 5. When you're ready, select **Publish** from the theme library.
 
@@ -19,10 +19,10 @@ lead: Install Lintel, pick a preset and find your way around the theme editor.
 
 ## Choose a preset
 
-Every preset contains all of Lintel's features and the same page templates. Presets differ in theme settings: color schemes, heading and body fonts, button style, page margins, product image ratios and a few defaults such as the sale badge style. You can change any of these after installing, so pick the preset whose look is closest to your brand. The demo stores show each preset with its own sample content.
+Every preset contains all of Corbel's features and the same page templates. Presets differ in theme settings: color schemes, heading and body fonts, button style, page margins, product image ratios and a few defaults such as the sale badge style. You can change any of these after installing, so pick the preset whose look is closest to your brand. The demo stores show each preset with its own sample content.
 
 <div class="shots">
-{% include figure.html src="index/home-lintel-mobile" alt="Lintel preset home page on a phone" caption="Lintel" mobile=true %}
+{% include figure.html src="index/home-corbel-mobile" alt="Corbel preset home page on a phone" caption="Corbel" mobile=true %}
 {% include figure.html src="index/home-bisque-mobile" alt="Bisque preset home page on a phone" caption="Bisque" mobile=true %}
 {% include figure.html src="index/home-neroli-mobile" alt="Neroli preset home page on a phone" caption="Neroli" mobile=true %}
 {% include figure.html src="index/home-savile-mobile" alt="Savile preset home page on a phone" caption="Savile" mobile=true %}
@@ -40,7 +40,7 @@ To switch presets later, add the theme again from the Theme Store and choose ano
 
 The theme editor (**Online Store > Themes > Customize**) has three areas:
 
-{% include figure.html src="getting-started/editor-overview" alt="The Shopify theme editor with the Lintel home page: the section list on the left and the live preview on the right" caption="The theme editor: sections on the left, a live preview on the right." %}
+{% include figure.html src="getting-started/editor-overview" alt="The Shopify theme editor with the Corbel home page: the section list on the left and the live preview on the right" caption="The theme editor: sections on the left, a live preview on the right." %}
 
 - **Sections** (left sidebar): the sections and blocks on the page you're viewing. Use the page selector at the top to edit other templates, such as a product page or a collection page.
 - **Settings** (right sidebar): the settings of the section or block you selected.
@@ -52,7 +52,7 @@ Sections are grouped as follows:
 - **Template**: the main content of the page, such as the product section on a product page.
 - **Footer** group: the footer.
 
-Select **Add section** to insert any of Lintel's sections. See [Sections]({{ '/sections/' | relative_url }}) for the full list.
+Select **Add section** to insert any of Corbel's sections. See [Sections]({{ '/sections/' | relative_url }}) for the full list.
 
 ## Theme settings groups
 
@@ -91,4 +91,4 @@ Theme settings are organized into these groups. Each one is described on the [Th
 
 ## Theme updates
 
-When a new version of Lintel is released, Shopify shows an update notice in your theme library. Updating creates a new copy of the theme with your settings and content carried over; edits you made to theme code files are not carried over. See the [release notes]({{ '/release-notes/' | relative_url }}).
+When a new version of Corbel is released, Shopify shows an update notice in your theme library. Updating creates a new copy of the theme with your settings and content carried over; edits you made to theme code files are not carried over. See the [release notes]({{ '/release-notes/' | relative_url }}).

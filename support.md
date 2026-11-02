@@ -2,7 +2,7 @@
 layout: default
 title: Support policy
 permalink: /support/
-lead: What Lintel theme support includes, how to reach us and how quickly we reply.
+lead: What Corbel theme support includes, how to reach us and how quickly we reply.
 ---
 
 ## How to get support
@@ -18,20 +18,20 @@ We reply to support requests **{{ site.support_response_time }}**. Complex issue
 
 ## What support covers
 
-Support is free for every store that purchased Lintel from the Shopify Theme Store, and includes:
+Support is free for every store that purchased Corbel from the Shopify Theme Store, and includes:
 
 - Help installing and setting up the theme.
 - Questions about theme settings, sections and blocks, and how features work.
 - Fixing bugs in the theme as we ship it.
 - Help with theme updates.
-- Guidance on how Lintel works with Shopify features, such as markets, filters, subscriptions and pickup.
+- Guidance on how Corbel works with Shopify features, such as markets, filters, subscriptions and pickup.
 
 ## What support doesn't cover
 
 - **Third-party apps.** We can't support apps or their code, including apps that add content to the theme. Contact the app developer. We'll help when the theme itself is at fault.
 - **Custom code.** Code added to theme files, Custom Liquid or Custom CSS, and any problems it causes.
 - **Customization and design work.** New features, layout changes or design changes beyond the theme settings.
-- **Modified themes.** Themes whose code has been changed. We may ask you to reproduce the problem on a fresh copy of Lintel.
+- **Modified themes.** Themes whose code has been changed. We may ask you to reproduce the problem on a fresh copy of Corbel.
 - **Shopify platform questions** not related to the theme, such as payments, domains or billing. Contact [Shopify Support](https://help.shopify.com/).
 
 For work outside our support, we recommend hiring a [Shopify Partner](https://www.shopify.com/partners/directory).
@@ -41,7 +41,7 @@ For work outside our support, we recommend hiring a [Shopify Partner](https://ww
 Include these details in your request:
 
 - Your store URL, for example `https://your-store.myshopify.com`.
-- The theme name (**Lintel**) and, if you have more than one copy, which copy.
+- The theme name (**Corbel**) and, if you have more than one copy, which copy.
 - What you expected, what happened, and the steps to see the problem.
 - A screenshot or short screen recording.
 

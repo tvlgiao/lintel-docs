@@ -2,7 +2,7 @@
 layout: default
 title: Accessibility
 permalink: /accessibility/
-lead: Lintel is built to be usable with a keyboard and a screen reader. It targets WCAG 2.2 level AA.
+lead: Corbel is built to be usable with a keyboard and a screen reader. It targets WCAG 2.2 level AA.
 ---
 
 ## What the theme does
@@ -11,7 +11,7 @@ lead: Lintel is built to be usable with a keyboard and a screen reader. It targe
 - **Skip link.** A "Skip to content" link is the first thing keyboard users reach.
 - **Visible focus.** Every control shows a focus ring when reached with the keyboard. Its color comes from each color scheme's **Focus ring** setting, with a fallback when its contrast is too low.
 - **Screen readers.** Buttons and icons have accessible names, and changes such as cart updates, filter results and form messages are announced.
-- **Reduced motion.** When a shopper's device asks for reduced motion, Lintel turns off scroll animations, autoplaying transitions and other motion.
+- **Reduced motion.** When a shopper's device asks for reduced motion, Corbel turns off scroll animations, autoplaying transitions and other motion.
 - **Pausable carousels.** Autoplaying slides pause on hover and focus, and have a pause button.
 - **Right-to-left languages.** Layouts mirror for Arabic, Hebrew, Persian, Urdu and other right-to-left languages.
 - **Touch targets.** Buttons and links meet the minimum target size for touch.

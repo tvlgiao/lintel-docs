@@ -6,7 +6,7 @@ lead: Insert your own HTML, Liquid or a third-party embed code on any page, with
 ---
 
 <div class="callout">
-<p><strong>Support status:</strong> The <strong>Custom Liquid</strong> section and the <strong>Custom Liquid</strong> blocks are part of Lintel and are supported. The code you paste into them is your own; we can't write, debug or maintain it. For complex features, hire a <a href="https://www.shopify.com/partners/directory">Shopify Partner</a>.</p>
+<p><strong>Support status:</strong> The <strong>Custom Liquid</strong> section and the <strong>Custom Liquid</strong> blocks are part of Corbel and are supported. The code you paste into them is your own; we can't write, debug or maintain it. For complex features, hire a <a href="https://www.shopify.com/partners/directory">Shopify Partner</a>.</p>
 </div>
 
 <div class="callout callout--warn">

@@ -6,7 +6,7 @@ lead: Change how something looks without editing theme files, using Shopify's Cu
 ---
 
 <div class="callout">
-<p><strong>Support status:</strong> The Custom CSS fields are a Shopify feature that works with Lintel and is supported. The CSS you write is your own; we can't write or debug it for you. For complex styling work, hire a <a href="https://www.shopify.com/partners/directory">Shopify Partner</a>.</p>
+<p><strong>Support status:</strong> The Custom CSS fields are a Shopify feature that works with Corbel and is supported. The CSS you write is your own; we can't write or debug it for you. For complex styling work, hire a <a href="https://www.shopify.com/partners/directory">Shopify Partner</a>.</p>
 </div>
 
 <div class="callout callout--warn">
@@ -50,7 +50,7 @@ Add this to the **Theme settings** Custom CSS:
 2. Right-click the element and choose **Inspect**.
 3. Look at the class names on the element and use one in your rule.
 
-Class names can change between theme versions. After updating Lintel, check that your custom CSS still works.
+Class names can change between theme versions. After updating Corbel, check that your custom CSS still works.
 
 ## Keep it accessible
 
