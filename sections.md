@@ -234,7 +234,7 @@ Settings: Eyebrow, Heading, Text, Button label, Social proof text, Disclaimer, L
 
 Questions and answers, grouped by category, with an optional search filter.
 
-{% include figure.html src="sections/faq" alt="The Lintel FAQ page with questions in bold and their answers below" %}
+{% include figure.html src="sections/faq" alt="The Corbel FAQ page with questions in bold and their answers below" %}
 
 Settings: Show breadcrumb, Intro fallback, Heading, Intro text, Show search filter, Search input placeholder, Show "Still have questions?" call to action, Call to action heading, Call to action text, Button label, Button link.
 
@@ -247,7 +247,7 @@ Blocks:
 
 A contact form that sends messages to your store's email address, with information cards beside it.
 
-{% include figure.html src="sections/contact-form" alt="The Lintel contact page: name, email, subject and message fields with a Send message button, and a studio card with address, hours, phone and email" %}
+{% include figure.html src="sections/contact-form" alt="The Corbel contact page: name, email, subject and message fields with a Send message button, and a studio card with address, hours, phone and email" %}
 
 Settings: Show breadcrumb, Intro fallback, Heading, Intro text, Show phone field, Show subject field, Subject options (comma-separated).
 

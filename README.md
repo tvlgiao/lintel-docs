@@ -1,6 +1,6 @@
-# Lintel theme documentation
+# Corbel theme documentation
 
-Public documentation, support policy and contact form for the Lintel Shopify theme by PapaThemes,
+Public documentation, support policy and contact form for the Corbel Shopify theme by PapaThemes,
 served by GitHub Pages at <https://lintel.papathemes.com>.
 
 It is a plain Jekyll site. GitHub Pages builds it from the `main` branch root; no Actions workflow is needed.

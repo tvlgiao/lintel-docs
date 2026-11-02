@@ -2,12 +2,12 @@
 layout: default
 title: Release notes
 permalink: /release-notes/
-lead: What's new in each version of Lintel.
+lead: What's new in each version of Corbel.
 ---
 
 ## 1.0.0
 
-Initial release of Lintel, with four presets: Lintel, Bisque, Neroli and Savile.
+Initial release of Corbel, with four presets: Corbel, Bisque, Neroli and Savile.
 
 - 39 sections, including slideshow, editorial collage, lookbook, shop the look, before / after, comparison table, store locator, material story and customer photo gallery.
 - Product pages with eight gallery styles, color swatches, frequently bought together, size guide, subscriptions (selling plans), pickup availability and a sticky add to cart bar.

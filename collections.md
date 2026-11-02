@@ -9,7 +9,7 @@ Open a collection template in the theme editor (page selector **Collections > De
 
 ## Display
 
-{% include figure.html src="collections/collection" alt="The Lintel Products collection page with breadcrumbs, a filter button, sort, layout buttons and a four-column product grid" caption="A collection page with the filter toolbar and grid." %}
+{% include figure.html src="collections/collection" alt="The Corbel Products collection page with breadcrumbs, a filter button, sort, layout buttons and a four-column product grid" caption="A collection page with the filter toolbar and grid." %}
 
 | Setting | Description |
 | --- | --- |
@@ -30,7 +30,7 @@ Open a collection template in the theme editor (page selector **Collections > De
 | Two sidebars — Categories + filters + grid | One sidebar for categories, one for filters. |
 | Left sidebar — Global menu | A sidebar with the whole category menu. |
 
-**Category menu** is the menu Lintel reads to find a collection's sub-collections and to build the breadcrumb. Nest collection links in that menu (in **Online Store > Navigation**) to define your category tree. If the current collection isn't in the menu, the page uses the standard product grid.
+**Category menu** is the menu Corbel reads to find a collection's sub-collections and to build the breadcrumb. Nest collection links in that menu (in **Online Store > Navigation**) to define your category tree. If the current collection isn't in the menu, the page uses the standard product grid.
 
 <div class="callout"><p>To use a different layout for some collections, create an alternate collection template, set its layout, and assign it in the collection's <strong>Theme template</strong> setting.</p></div>
 
@@ -58,7 +58,7 @@ Open a collection template in the theme editor (page selector **Collections > De
 
 ## Filtering and sorting
 
-Filters come from Shopify. Install the free **Shopify Search & Discovery** app and choose your filters there, for example availability, price, product type, vendor, tags and product options such as size and color. Lintel shows each filter in a matching style: checkboxes, a price range or a yes/no toggle.
+Filters come from Shopify. Install the free **Shopify Search & Discovery** app and choose your filters there, for example availability, price, product type, vendor, tags and product options such as size and color. Corbel shows each filter in a matching style: checkboxes, a price range or a yes/no toggle.
 
 {% include figure.html src="collections/collection-mobile-filters" alt="The filter drawer on a phone with availability and price filters and Clear all and Apply buttons" caption="On a phone, filters open in a drawer." mobile=true %}
 

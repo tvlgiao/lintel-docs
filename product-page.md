@@ -9,7 +9,7 @@ Open a product template in the theme editor (page selector **Products > Default 
 
 ## Gallery
 
-{% include figure.html src="product-page/product-top" alt="Lintel product page for the Rattan Pendant: a large photo on the left, title, price, size buttons and add to cart on the right" caption="The product page on a desktop screen." %}
+{% include figure.html src="product-page/product-top" alt="Corbel product page for the Rattan Pendant: a large photo on the left, title, price, size buttons and add to cart on the right" caption="The product page on a desktop screen." %}
 
 | Setting | Options and description |
 | --- | --- |
@@ -104,7 +104,7 @@ Other settings: Heading, Maximum products, Show bundle discount, Discount percen
 
 ## Size guide
 
-The size guide opens in a dialog from the **Size guide** block. Lintel looks for content in this order and uses the first one it finds:
+The size guide opens in a dialog from the **Size guide** block. Corbel looks for content in this order and uses the first one it finds:
 
 {% include figure.html src="product-page/size-guide" alt="The Savile size guide open in a dialog over the product page, with a size table and care note" caption="The size guide opens in a dialog." %}
 
@@ -130,7 +130,7 @@ Leave a tab's default text blank to hide it on products without the metafield. O
 
 ## Subscriptions (selling plans)
 
-Products sold with a subscription app show their purchase options in the **Subscription options** block: one-time purchase and each subscription plan, with the plan's price. Lintel shows subscription details in the cart as well. Set up plans with a subscription app such as Shopify Subscriptions.
+Products sold with a subscription app show their purchase options in the **Subscription options** block: one-time purchase and each subscription plan, with the plan's price. Corbel shows subscription details in the cart as well. Set up plans with a subscription app such as Shopify Subscriptions.
 
 ## Pickup availability
 

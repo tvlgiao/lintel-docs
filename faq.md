@@ -2,18 +2,18 @@
 layout: default
 title: Frequently asked questions
 permalink: /faq/
-lead: Quick answers to common questions about Lintel.
+lead: Quick answers to common questions about Corbel.
 ---
 
 ## Setup
 
-### How do I install Lintel?
+### How do I install Corbel?
 
 From the Shopify Theme Store, select **Try theme** or **Buy theme** and choose a preset. See [Getting started]({{ '/getting-started/' | relative_url }}).
 
 ### Can I switch to another preset after installing?
 
-Presets are starting points. To start over with another preset, add Lintel again from the Theme Store and choose that preset. Settings and content aren't copied between theme copies, so set up the new copy before publishing it.
+Presets are starting points. To start over with another preset, add Corbel again from the Theme Store and choose that preset. Settings and content aren't copied between theme copies, so set up the new copy before publishing it.
 
 ### Why doesn't my store look like the demo?
 
@@ -41,9 +41,9 @@ Add a **Size guide** block to the Product section and choose a **Size guide page
 
 Set the product metafield `custom.fbt_products`, or set complementary products in the Search & Discovery app. See [Frequently bought together]({{ '/product-page/#frequently-bought-together' | relative_url }}).
 
-### Do product reviews work with Lintel?
+### Do product reviews work with Corbel?
 
-Lintel shows star ratings and the reviews section for review apps that use Shopify's standard product rating metafields. Many review apps also provide app blocks you can add to the Product section.
+Corbel shows star ratings and the reviews section for review apps that use Shopify's standard product rating metafields. Many review apps also provide app blocks you can add to the Product section.
 
 ## Cart and checkout
 
@@ -71,7 +71,7 @@ You can choose any font from the Shopify font library in **Theme settings > Typo
 
 ## Updates and support
 
-### How do I update Lintel?
+### How do I update Corbel?
 
 When an update is available, Shopify shows it in your theme library. Updating creates a new copy with your settings and content. Code edits aren't carried over. See [Release notes]({{ '/release-notes/' | relative_url }}).
 

@@ -24,7 +24,7 @@ These are in **Theme settings > Cart**:
 | --- | --- |
 | Show vendor | Shows the product vendor on cart lines. |
 | Show cart note | Adds a note field for special instructions. |
-| Show recommendations | Shows a "You may also like" row of up to six products. Lintel uses the collection with the handle `cart-upsell`; create that collection to choose the products. Without it, products come from all products. |
+| Show recommendations | Shows a "You may also like" row of up to six products. Corbel uses the collection with the handle `cart-upsell`; create that collection to choose the products. Without it, products come from all products. |
 | Delivery estimate | Text under each cart line, such as "Ships in 2–3 business days". |
 | Show bundle suggestion in cart drawer | Shows Bundle heading, Bundle text and a link (Bundle link, Bundle link label). The theme doesn't apply a discount; create one in **Discounts** if your bundle has a price offer. |
 | Show gift wrapping option in cart drawer | A checkbox that adds the cart attribute "gift_wrap: yes" to the order. It doesn't add a charge. Turn it on only if you wrap orders. |
@@ -42,7 +42,7 @@ Set **Free shipping threshold** to the minimum order amount for free shipping, i
 
 Open the cart template in the theme editor (page selector **Cart**). The Cart section has these settings:
 
-{% include figure.html src="cart/cart-page" alt="The Lintel cart page with a product line and an order summary with discount code, order note and checkout" caption="The cart page." %}
+{% include figure.html src="cart/cart-page" alt="The Corbel cart page with a product line and an order summary with discount code, order note and checkout" caption="The cart page." %}
 
 | Setting | Description |
 | --- | --- |

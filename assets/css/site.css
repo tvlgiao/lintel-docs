@@ -1,4 +1,4 @@
-/* Lintel docs: system fonts only, no external requests. All text pairs meet WCAG AA (4.5:1). */
+/* Corbel docs: system fonts only, no external requests. All text pairs meet WCAG AA (4.5:1). */
 :root {
   --bg: #ffffff;
   --surface: #f5f4f1;
