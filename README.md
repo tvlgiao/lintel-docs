@@ -1,7 +1,7 @@
 # Corbel theme documentation
 
 Public documentation, support policy and contact form for the Corbel Shopify theme by PapaThemes,
-served by GitHub Pages at <https://lintel.papathemes.com>.
+served by GitHub Pages at <https://corbel.papathemes.com>.
 
 It is a plain Jekyll site. GitHub Pages builds it from the `main` branch root; no Actions workflow is needed.
 
@@ -31,11 +31,11 @@ The form fields, file attachments and the auto-reply are configured in Zendesk, 
 
 ## Custom domain (DNS)
 
-GitHub Pages serves this repository at `lintel.papathemes.com` (see `CNAME`). In the DNS for `papathemes.com`, add:
+GitHub Pages serves this repository at `corbel.papathemes.com` (see `CNAME`). In the DNS for `papathemes.com`, add:
 
 | Type | Name | Value |
 | --- | --- | --- |
-| CNAME | `lintel` | `tvlgiao.github.io` |
+| CNAME | `corbel` | `tvlgiao.github.io` |
 
 When the record resolves and GitHub has issued the certificate, turn on **Settings > Pages > Enforce HTTPS**.
 
