@@ -34,7 +34,7 @@ In **Theme settings > Layout**:
 
 ## Buttons
 
-In **Theme settings > Buttons**: **Border radius**, **Vertical padding**, **Horizontal padding**, **Font size** (**Small**, **Regular** or **Medium**), **Uppercase text** and **Letter spacing**. Button colors come from the [color scheme]({{ '/colors/' | relative_url }}).
+In **Theme settings > Buttons**: **Vertical padding**, **Horizontal padding**, **Font size** (**Small**, **Regular** or **Medium**), **Uppercase text** and **Letter spacing**. Button colors come from the [color scheme]({{ '/colors/' | relative_url }}). Button corners are set in **Theme settings > Corners** ([Button radius]({{ '/theme-settings/' | relative_url }}#corners)).
 
 ## Product cards
 
