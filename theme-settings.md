@@ -58,13 +58,24 @@ See [Typography and layout]({{ '/typography/' | relative_url }}).
 | Maximum page width | **Narrow (90rem)** or **Wide (110rem)**. |
 | Minimum page margin | The space between content and the edge of the screen. |
 
-## Buttons
+## Corners
 
-{% include figure.html src="theme-settings/panel-buttons" alt="The Buttons group in theme settings: border radius, vertical and horizontal padding, font size, uppercase text and letter spacing" caption="Theme settings > Buttons." mobile=true %}
+{% include figure.html src="theme-settings/panel-corners" alt="The Corners group in theme settings: corner radius, button radius and input radius" caption="Theme settings > Corners." mobile=true %}
+
+Every corner in the theme follows one of these three settings.
 
 | Setting | Description |
 | --- | --- |
-| Border radius | Roundness of button corners. |
+| Corner radius | Cards, images, panels, pop-ups, drawers and labels. At **0** every corner is square. Color swatches, dots and avatars stay round. |
+| Button radius | Buttons. At **0** round icon buttons, such as close and arrows, are square too. At the maximum every button is fully rounded. |
+| Input radius | Text fields, dropdowns, quantity selectors and the sort, filter and category controls. At the maximum single-line fields are fully rounded; text areas stay at a gentle curve. |
+
+## Buttons
+
+{% include figure.html src="theme-settings/panel-buttons" alt="The Buttons group in theme settings: vertical and horizontal padding, font size, uppercase text and letter spacing" caption="Theme settings > Buttons." mobile=true %}
+
+| Setting | Description |
+| --- | --- |
 | Vertical padding / Horizontal padding | Space inside buttons. |
 | Font size | **Small**, **Regular** or **Medium**. |
 | Uppercase text | Shows button labels in capital letters. |
